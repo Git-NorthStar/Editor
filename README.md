@@ -16,5 +16,5 @@ that this is NOT the same project.
 # API
 The Polaris API is available here: https://github.com/Git-Polaris/API
 
-#WIP
+# WIP
 Remember that this is still being worked on and is not yet usable.
